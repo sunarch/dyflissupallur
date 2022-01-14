@@ -3,6 +3,14 @@
 - a dungeon platformer game
 - developed in Python with Pygame 
 
+## Installation
+
+The package is on PyPI: [dyflissupallur](https://pypi.org/project/dyflissupallur/)
+
+```
+pip install dyflissupallur
+```
+
 ### License
 
 [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/)
